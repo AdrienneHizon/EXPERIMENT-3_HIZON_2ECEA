@@ -133,11 +133,17 @@ The result will be displayed as:
 With these problems that were solved, the students will be able to meet the intended learning outcome that this assignment is aiming to achieve.
 
 ## 🛠 Author
-### Name: Kyle Adrienne S. Hizon
-### Section: 2ECE-A
+#### Name: Kyle Adrienne S. Hizon
+#### Section: 2ECE-A
 
 ## 🔑 Version History
 
--1.01 Readme file completed
+- 1.02
+  - Added the supplemental files
+  - Revamped the readme file
 
--1.00 Repository has been established
+- 1.01
+  - Readme file completed
+
+- 1.00 
+  - Repository has been established
