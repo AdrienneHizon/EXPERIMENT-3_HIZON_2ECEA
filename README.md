@@ -138,6 +138,9 @@ With these problems solved, the students will be able to achieve the intended le
 
 ## 🔑 Version History
 
+- 1.03
+  - Added a title, name, and section to a Notebook file
+
 - 1.02
   - Added the supplemental files
   - Revamped the readme file
