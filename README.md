@@ -77,7 +77,7 @@ The result will be displayed as:
 
 ![image](https://github.com/user-attachments/assets/b90679e6-c0bc-443d-8fc8-71208e72326c)
 
-To display the last five rows of this data frame, the function .head() is going to be used
+To display the last five rows of this data frame, the function .tail() is going to be used
 
 ```python
 cars.tail()
